@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -g   CMakeFiles/MainServer.dir/MainServer.cpp.o CMakeFiles/MainServer.dir/Server.cpp.o CMakeFiles/MainServer.dir/Controller.cpp.o CMakeFiles/MainServer.dir/DB_Connector.cpp.o  -o MainServer  -lmysqlcppconn 

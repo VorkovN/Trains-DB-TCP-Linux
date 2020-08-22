@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -g   CMakeFiles/MainClient.dir/MainClient.cpp.o CMakeFiles/MainClient.dir/Client.cpp.o  -o MainClient  -lmysqlcppconn 

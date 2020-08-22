@@ -1,0 +1,3 @@
+/home/vorkov/Workspace/C++/LearnTCP/MainServer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vorkov/Workspace/C++/LearnTCP/MainServer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vorkov/Workspace/C++/LearnTCP/MainServer/cmake-build-debug/CMakeFiles/MainServer.dir
